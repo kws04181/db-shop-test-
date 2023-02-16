@@ -1,0 +1,30 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "PORTER / PX TANKER",
+      "content": "RECON BAG",
+      "price": "¥74,800",
+      "imagePath": "https://d2fftkxjmzlswm.cloudfront.net/yoshidakaban/image_item/113/113120/11312091_lm.jpg?20230125152613"
+    },
+    {
+      "id": "2",
+      "title": "PORTER / PORTER MILE",
+      "content": "DAYPACK",
+      "price": "¥47,300",
+      "imagePath": "https://d2fftkxjmzlswm.cloudfront.net/yoshidakaban/image_item/113/113110/11311001_lm.jpg?20221216154810"
+    },
+    {
+      "id": "3",
+      "title": "PORTER / PX TANKER",
+      "content": "TANK BAG",
+      "price": "¥88,000",
+      "imagePath": "https://d2fftkxjmzlswm.cloudfront.net/yoshidakaban/image_item/113/113119/113119Q6_lm.jpg?20230125152636"
+    }
+  ],
+  "user": {
+    "name": "Sw Kim",
+    "email": "kimsungwon57@naver.com",
+    "role": "kws04181"
+  }
+}
